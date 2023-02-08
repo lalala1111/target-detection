@@ -1,0 +1,1 @@
+yolo basic components: head, backbone, neck and prediction
